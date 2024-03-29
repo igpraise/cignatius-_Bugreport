@@ -1,38 +1,33 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: The purpose is to highlight an issue where users can't upload profile pictures,
+  aiding its resolution to enhance user experience.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Software
+ Operating System: Windows 11
+ Browser: Mozilla Firefox Version 97.0.1
+ Application Version: 2.5.0
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Bug Description
+When attempting to upload a profile picture in the user settings, the image file is not recognized, and users are unable to set their profile picture successfully.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+Steps to Reproduce
+Log in to the application and navigate to the user settings page.
+Click on the "Upload Profile Picture" button.
+Select an image file from the computer.
+Observe that the selected image file is not recognized, and users are unable to set their profile picture.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+Additional Information
+ Error Messages: "Unsupported file format. Please select a valid image file (e.g., JPG, PNG)."
+ Expected Behavior: Users should be able to upload an image file and set it as their profile picture.
+ Actual Behavior: The selected image file is not recognized, and users are unable to set their profile picture.
+ Environment Details: Using Mozilla Firefox browser on Windows 11.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+Severity
+Label: Medium
+Justification: While this bug affects user experience by preventing them from setting their profile picture, it does not hinder core functionality or prevent users from using other features of the application. Thus, it is labeled as "Medium" severity.
