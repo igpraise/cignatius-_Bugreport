@@ -1,31 +1,38 @@
 ---
 name: Bug report
-about: The purpose of documenting a bug is to identify and communicate software issues
-  for resolution
+about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-Software
-Operating System: Windows 10
- Browser: Google Chrome Version 98.0.4758.102
- Application Version: 1.2.3
+**Describe the bug**
+A clear and concise description of what the bug is.
 
- Bug Description
-When attempting to submit a form on the website, an error message is displayed, preventing submission.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
- Steps to Reproduce
-1. Navigate to the "Contact Us" page on the website.
-2. Fill out the form with valid information.
-3. Click the "Submit" button.
-4. Observe the error message displayed on the screen.
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
- Additional Information
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
- Error Messages: "Error: Form submission failed. Please try again later."
- Expected Behavior: The form should submit successfully, and a confirmation message should be displayed.
-- ] Actual Behavior: An error message is displayed, and the form cannot be submitted.
-- Environment Details: Using desktop browser on a high-speed internet connection.
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
