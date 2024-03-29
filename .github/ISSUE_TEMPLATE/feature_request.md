@@ -1,26 +1,26 @@
 ---
 name: Feature request
-about: Add multi-language support to SocialConnect for better accessibility and wider
-  user reach.
+about: Add calendar view to Task Manager Pro for better task visualization and productivity,
+  with high priority.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-Software
- Name of Software: Social Connect
- Platform: Android
- Version: 3.0
+Name of Software: Task Manager Pro
+ Platform: Web
+ Version: 1.0
 Feature Request Description
-Add support for multiple languages within the social networking app to cater to a diverse user base globally.
+Integrate a calendar view within the task manager app to allow users to visualize their tasks and deadlines more effectively.
 
 Detailed Description
-Multi-language support would allow users to switch between different languages for the app interface and content. Users can select their preferred language from the settings menu, enabling them to navigate the app and interact with content in their native language.
+The integrated calendar would display tasks and deadlines in a calendar format, providing users with a clear overview of their scheduled activities. Users can view, create, and edit tasks directly from the calendar interface, enhancing productivity and organization.
 
-Use Case 
-Users from different regions and language backgrounds often use the app, and providing multi-language support would enhance their experience and make the app more accessible and user-friendly. It would also enable the app to reach a wider audience and improve user engagement.
+Use Case
+Users often need to manage tasks with specific deadlines, and having a visual representation of these tasks in a calendar format would help them plan and prioritize effectively. The integrated calendar would streamline task management and improve user workflow.
 
 Additional Information
- Similar Features in Other Software: Many social networking apps, such as Facebook and Twitter, offer multi-language support.
+ Screenshots or Mockups: [Attach mockups of the integrated calendar interface]
+ Similar Features in Other Software: Applications like Todoist and Asana offer integrated calendar views for task management.
  Priority: High
